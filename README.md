@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TALENT_TRACK<br>🌱 I’m currently learning MEAN STACK<br>💬 Ask me about angular<br>⚡ Fun fact lite attracts bugs
+I’m currently learning MICRO SERVICES<br>💬 Ask me about angular<br>⚡ Fun fact light attracts bugs
 
 
 ## 🌐 Socials:
